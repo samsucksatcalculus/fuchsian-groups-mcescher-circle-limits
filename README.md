@@ -1,5 +1,5 @@
 # fuchsian-groups-escher
-This repo contains the Cayley graphs and group presentations of the Fuchsian groups underlying M.C. Eschers Circle Limit artworks. It does not contain any code.
+This repo contains the Cayley graphs and group presentations of the Fuchsian groups underlying M.C. Eschers Circle Limit artworks. It does not contain any code. If you follow this very brief tutorial, you should be able to read a group presentation off a (Euclidean, hyperbolic or spherical) tesselation.
 
 Fuchsian groups are discrete subgroups of the group of orientation preserving isometries of the upper half plane. They act properly discontinuously on the upper half plane and thus give rise to a tesselation.
 
@@ -10,4 +10,6 @@ By Sabidussis Theorem the Cayley graph of the Fuchsian groups underlying these c
 For finite sided fundamental polygons its vertex set must be finite as well. The side-pairing transformations partition the vertex set of the fundamental polygon into vertex cycles. These subsets are called vertex cycles because a subset of the side pairing transformations cyclically permutes the elements in each vertex cycle.
 
 Taking the elements (in order) which cyclically permute the vertex cycle, we can derive a relation between them by looking at the sum of the angles at the vertices in the interior of the fundamental polygons. The angle sum for each vertex cycle will always be $\frac{2\pi}{k}$, for some $k \in \mathbb{Z}$.
-{
+
+![alt text](https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/anglesums.png)
+
