@@ -18,7 +18,7 @@ This repo contains the Cayley graphs and group presentations of the Fuchsian gro
 
 Fuchsian groups are discrete subgroups of the group of orientation preserving isometries of the upper half plane. They act properly discontinuously on the upper half plane and thus give rise to a tesselation. Along the Cayley map $C$ we can pass back and forth between the upper half plane model and the unit disk model of the hyperbolic plane without losing notions of hyperbolic distance.
 
-\[ K(z) = \frac{z-i}{z+i}, \quad C^{-1}(z) = -i \frac{z+1}{z-1} \]
+$$ K(z) = \frac{z-i}{z+i}, \quad C^{-1}(z) = -i \frac{z+1}{z-1} $$
 
 In general Fuchsian groups have Dirichlet regions, i.e. in particular they have polygonal, convex fundamental domains. In the case of M.C. Eschers Circle Limit, we can find Dirichlet regions which are compact and finite-sided.
 
