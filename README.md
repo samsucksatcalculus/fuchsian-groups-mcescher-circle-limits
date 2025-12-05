@@ -2,18 +2,18 @@
 This repo contains the Cayley graphs and group presentations of the Fuchsian groups underlying M.C. Eschers Circle Limit artworks. It does not contain any code. If you follow this very brief tutorial, you should be able to read a group presentation off a (Euclidean, hyperbolic or spherical) tesselation.
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/anglesums.png?raw=true" 
+  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/Circle-Limit-I.jpeg?raw=true" 
        alt="Circle Limit 1" 
-       style="width: 22%; margin: 1%;">
-  <img src="[image2.png](https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/anglesums.png?raw=true)" 
+       style="width: 24%; margin: 1%;">
+  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/Circle-Limit-II.jpeg?raw=true" 
        alt="Circle Limit 2" 
-       style="width: 22%; margin: 1%;">
-  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/anglesums.png?raw=true" 
+       style="width: 24%; margin: 1%;">
+  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/Circle-Limit-III.jpeg?raw=true" 
        alt="Circle Limit 3" 
-       style="width: 22%; margin: 1%;">
-  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/anglesums.png?raw=true" 
+       style="width: 24%; margin: 1%;">
+  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/Circle-Limit-IV.jpeg?raw=true" 
        alt="Circle Limit 4" 
-       style="width: 22%; margin: 1%;">
+       style="width: 24%; margin: 1%;">
 </div>
 
 Fuchsian groups are discrete subgroups of the group of orientation preserving isometries of the upper half plane. They act properly discontinuously on the upper half plane and thus give rise to a tesselation.
