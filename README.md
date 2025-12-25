@@ -63,17 +63,14 @@ For finite sided fundamental polygons its vertex set must be finite as well. The
 
 Taking the elements $T_{i_1}, T_{i_2},..., T_{i_k}$ (in order) which cyclically permute the $i$th vertex cycle, we can derive a relation between them by looking at the sum of the angles at the vertices in the interior of the fundamental polygons. The angle sum for each vertex cycle will always be $\frac{2\pi}{k}$, for some $k \in \mathbb{Z}$. The relation $T_{i_k}...T_{i_2}T_{i_1}^k$ holds (recall that the rightmost element is applied first).
 
-<p align="center">
-     <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/anglesums.png?raw=true"
-          alt="interior angle size and vertex cycles of fundamental polygon of circle limit III"
-          width="500">
-</p>
-
-<p align="center">
-     <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/Circle-Limit-3-Side-Pairing.png?raw=true"
-          alt="Side-pairing transformations of Circle Limit III"
-          width="500">
-</p>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/Circle-Limit-3-Side-Pairing.png?raw=true" 
+       alt="Side-pairing transformations in Circle Limit III" 
+       style="width: 48%; margin: 1%;">
+  <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/anglesums.png?raw=true" 
+       alt="Interior angles of fundamental polygon in Circle Limit III" 
+       style="width: 48%; margin: 1%;">
+</div>
 
 Example: Figure \ref{fig:4.3.3a} shows the side pairing of our fundamental polygon in Circle Limit III. The sides of $F$ which meet in the four-fin vertex are paired by the hyperbolic rotations $T_1, T_1^{-1}$ about the four-fin vertex through $2\pi/4$ and $-2\pi/4$, respectively. Similarly, the remaining two sides of $F$, which meet in the three-fin vertex, are paired by the hyperbolic rotations $T_2,T_2^{-1}$ about the three-fin vertex through $2\pi/3$ and $-2\pi/3$, respectively.
 
