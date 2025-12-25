@@ -61,7 +61,7 @@ By Sabidussis Theorem the Cayley graph of the Fuchsian groups underlying these C
 
 For finite sided fundamental polygons its vertex set must be finite as well. The side-pairing transformations partition the vertex set of the fundamental polygon into vertex cycles. These subsets are called vertex cycles because a subset of the side pairing transformations cyclically permutes the elements in each vertex cycle.
 
-Taking the elements $T_{i_1}, T_{i_2},..., T_{i_k}$ (in order) which cyclically permute the $i$th vertex cycle, we can derive a relation between them by looking at the sum of the angles at the vertices in the interior of the fundamental polygons. The angle sum for each vertex cycle will always be $\frac{2\pi}{k}$, for some $k \in \mathbb{Z}$. The relation $T_{i_k}...T_{i_2}T_{i_1}^k holds (recall that the rightmost element is applied first).
+Taking the elements $T_{i_1}, T_{i_2},..., T_{i_k}$ (in order) which cyclically permute the $i$th vertex cycle, we can derive a relation between them by looking at the sum of the angles at the vertices in the interior of the fundamental polygons. The angle sum for each vertex cycle will always be $\frac{2\pi}{k}$, for some $k \in \mathbb{Z}$. The relation $T_{i_k}...T_{i_2}T_{i_1}^k$ holds (recall that the rightmost element is applied first).
 
 <p align="center">
      <img src="https://github.com/samsucksatcalculus/fuchsian-groups-escher/blob/main/readme/anglesums.png?raw=true"
